@@ -23,12 +23,6 @@
 
 <p>Upcoming technologies soon... ♾ </p>
 
-## GitHub Status ⚡ 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jacksonkasi0)
-
-<br/>
-
 
 ### Connect with me:
 
