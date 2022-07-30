@@ -6,8 +6,6 @@
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="165px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonkasi0&layout=compact"  margin-left="-100px" />
 
-<span align="left"><img src="https://komarev.com/ghpvc/?username=jacksonkasi0" alt="Views" /><span/>   ![Last Modified](<https://img.shields.io/badge/Last%20Modified-2022/03/31%2000:15%20(IST)-%23121212?style=flat>)
-
 
 ## 👨‍💻 Technologies
   
