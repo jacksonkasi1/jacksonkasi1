@@ -31,3 +31,6 @@
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/Jacksonkasi11#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Jacksonkasi11#gh-dark-mode-only)
+
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-%E2%86%92-blue.svg)](https://github.com/jacksonkasi1/jacksonkasi1)
+
