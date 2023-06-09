@@ -1,6 +1,6 @@
 
 <h2> Hi <img src="./img/animate/hand.gif" width="40px" height="40px" > I am  Jackson Kasi <img src="./img/animate/face.gif" width="40px" height="40px" /></h2>
-<h4>And a good Fullstack Developer & Artist</h4>
+<h4>A good Fullstack Developer & Artist</h4>
 <p>Completed school,  no college. But I am a learner until death <img src="./img/animate/fire.gif" height="30px" width="30px" />
 <br/>
 
