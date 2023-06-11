@@ -18,6 +18,11 @@
 <p>Upcoming technologies soon... ♾ </p>
 
 
+## My GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jacksonkasi1)
+
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://dev.to/jacksonkasi#gh-light-mode-only)
