@@ -11,7 +11,7 @@
   
 <p align="center">
   <a href="https://dev.to/jacksonkasi">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,mui,tailwind,js,ts,react,nextjs,redux,nodejs,express,graphql,apollo,prisma,mongodb,dynamodb,postgresql,firebase,aws,azure,netlify,heroku,vercel,git,github,gitlab,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,mui,tailwind,js,ts,react,nextjs,redux,nodejs,express,graphql,apollo,prisma,trpc,hanko,mongodb,dynamodb,postgresql,firebase,aws,azure,netlify,heroku,vercel,git,github,gitlab,vscode&perline=8" />
   </a>
 </p>
 
