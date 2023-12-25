@@ -1,7 +1,7 @@
 
 <h2> Hi <img src="./img/animate/hand.gif" width="40px" height="40px" > I am  Jackson Kasi <img src="./img/animate/face.gif" width="40px" height="40px" /></h2>
 <h4>A good Fullstack Developer & Artist</h4>
-<p>Completed school,  no college. But I am a learner until death <img src="./img/animate/fire.gif" height="30px" width="30px" />
+<p>I finished school, no college, but I'm a lifelong learner. 😎 <img src="./img/animate/fire.gif" height="30px" width="30px" />
 <br/>
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="165px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonkasi0&layout=compact"  margin-left="-100px" />
