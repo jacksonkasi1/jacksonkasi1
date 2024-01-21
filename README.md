@@ -39,3 +39,5 @@
 
 [![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-%E2%86%92-blue.svg)](https://github.com/jacksonkasi1/jacksonkasi1) [![GitHub Views](https://komarev.com/ghpvc/?username=jacksonkasi1&label=Views&color=brightgreen)](https://github.com/jacksonkasi1/jacksonkasi1)
 
+
+<a href="https://app.daily.dev/jacksonkasi"><img src="https://api.daily.dev/devcards/044c822569834178b37329bf0c440a2d.png?r=8rl" width="400" alt="Jackson Kasi's Dev Card"/></a>
