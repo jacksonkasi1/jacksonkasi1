@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **@peacockindia**
 
-- 🌱 I’m currently learning **Figma Plugin Development & Ethical Hacking**
+- 🌱 I’m currently learning **Figma Plugin Development**
 
 - 👯 I’m looking to collaborate on [Better Code Practices Docs](https://github.com/jacksonkasi1/docs)
 
