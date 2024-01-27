@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jackson Kasi</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacksonkasi1&label=Profile%20views&color=0e75b6&style=flat" alt="jacksonkasi1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jacksonkasi11" target="blank"><img src="https://img.shields.io/twitter/follow/jacksonkasi11?logo=twitter&style=for-the-badge" alt="jacksonkasi11" /></a> </p>
