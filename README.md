@@ -21,6 +21,8 @@
 
 - 📫 How to reach me **jacksonkasipeacock@gmail.com**
 
+- 🌐 Languages: **Tamil, English**
+
 - ⚡ Fun fact **I like to talk 😅**
 
 <h3 align="left">Connect with me:</h3>
