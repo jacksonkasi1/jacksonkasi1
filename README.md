@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [Better Code Practices Docs](https://github.com/jacksonkasi1/docs)
 
-- 👨‍💻 All of my projects are available at [https://github.com/jacksonkasi1](https://github.com/jacksonkasi1)
+- 👨‍💻 All of my projects are available at [github](https://github.com/jacksonkasi1)
 
 - 💬 Ask me about **Technical Ideology about your project**. Feel free to ask anything, be it technical or friendly conversations!
 
