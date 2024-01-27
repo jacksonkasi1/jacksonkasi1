@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jacksonkasi1](https://github.com/jacksonkasi1)
 
-- 💬 Ask me about **Grendel Ideology about your project in technical**
+- 💬 Ask me about **Technical Ideology about your project**
 
 - 📫 How to reach me **jacksonkasipeacock@gmail.com**
 
