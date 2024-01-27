@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/jacksonkasi11" target="blank"><img src="https://img.shields.io/twitter/follow/jacksonkasi11?logo=twitter&style=for-the-badge" alt="jacksonkasi11" /></a> </p>
 
-- 🔭 I’m currently working on **@peacockindia**
+- 🔭 I’m currently working on **[@peacockindia](https://github.com/Peacock-India)**
 
 - 🌱 I’m currently learning **Figma Plugin Development**
 
