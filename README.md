@@ -37,7 +37,21 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/jacksonkasi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jacksonkasi" /></a></p><br><br>
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksonkasi1&show_icons=true&locale=en" alt="jacksonkasi1" /></p>
+<!-- Centered image in the first row -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksonkasi1&show_icons=true&locale=en&layout=compact" alt="jacksonkasi1" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksonkasi1&" alt="jacksonkasi1" /></p>
+<!-- Images in the same row using a table -->
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksonkasi1&" alt="jacksonkasi1" />
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=jacksonkasi1&show_icons=true&locale=en" alt="jacksonkasi1" />
+    </td>
+  </tr>
+</table>
