@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **[@peacockindia](https://github.com/Peacock-India)**
 
-- 🌱 I’m currently learning **Figma Plugin Development**
+- 🌱 I’m currently learning **LLM**
 
 - 👯 I’m looking to collaborate on [Better Code Practices Docs](https://github.com/jacksonkasi1/docs)
 
