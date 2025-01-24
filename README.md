@@ -27,7 +27,7 @@
 
 ---
 
-> **💡 My Original GitHub Account:**  
+> **💡 My Original/Personal GitHub Account:**  
 > [**jacksonkasi0**](https://github.com/jacksonkasi0)
 
 ---
