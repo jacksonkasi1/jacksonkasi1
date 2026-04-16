@@ -12,8 +12,8 @@
 const jackson = {
   role: "Full-stack developer",
   company: "Peacock India",
-  learning: ["Rust", "LLM"],
-  focus: "Scalable backend systems",
+  learning: ["Rust"],
+  focus: "Scalable systems",
   email: "jacksonkasipeacock@gmail.com"
 };
 </code></pre>
