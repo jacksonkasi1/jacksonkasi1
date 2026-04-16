@@ -1,15 +1,22 @@
-<!-- TOP GRID -->
+<!-- ANIMATED HEADER -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Jackson+Kasi;Full-Stack+Developer;Building+Scalable+Systems;Rust+Learner+⚡" />
+</p>
+
+<!-- HERO GRID -->
 <table>
 <tr>
 <td width="50%">
 
-### 👨‍💻 Jackson Kasi
-Full-stack developer building scalable systems.
-
-- 🔭 Working on: **Peacock India**
-- 🌱 Learning: **Rust**
-- 💬 Ask me about **backend & architecture**
-- 📫 **jacksonkasipeacock@gmail.com**
+<pre><code class="language-ts">
+const jackson = {
+  role: "Full-stack developer",
+  company: "Peacock India",
+  learning: ["Rust", "LLM"],
+  focus: "Scalable backend systems",
+  email: "jacksonkasipeacock@gmail.com"
+};
+</code></pre>
 
 </td>
 
@@ -19,23 +26,22 @@ Full-stack developer building scalable systems.
 </tr>
 </table>
 
-<!-- PERFECT GRID -->
+<!-- DASHBOARD GRID -->
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 Tech Stack
-`Node.js` `React` `TypeScript`  
-`PostgreSQL` `Docker` `AWS`
+### 🧠 Tech Arsenal
+<img src="https://skillicons.dev/icons?i=nodejs,react,ts,postgres,docker,aws,rust" />
 
 </td>
 
 <td width="50%">
 
 ### 🌐 Connect
-[LinkedIn](https://linkedin.com/in/jacksonkasi)  
-[Twitter](https://twitter.com/jacksonkasi11)  
-[Dev.to](https://dev.to/jacksonkasi)
+<a href="https://linkedin.com/in/jacksonkasi">LinkedIn</a><br>
+<a href="https://twitter.com/jacksonkasi11">Twitter</a><br>
+<a href="https://dev.to/jacksonkasi">Dev.to</a>
 
 </td>
 </tr>
@@ -44,15 +50,26 @@ Full-stack developer building scalable systems.
 <td width="50%">
 
 ### 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=jacksonkasi1&show_icons=true&theme=tokyonight" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jacksonkasi1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="100%" />
+<br>
 
 </td>
 
 <td width="50%">
 
 ### 🔥 Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksonkasi1&theme=tokyonight" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksonkasi1&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 </tr>
 </table>
+
+<!-- FULL WIDTH GRAPH -->
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksonkasi1&theme=tokyo-night&hide_border=true" />
+</p>
+
+<!-- SIGNATURE -->
+<p align="center">
+<i>⚡ Build systems. Break limits. Repeat.</i>
+</p>
