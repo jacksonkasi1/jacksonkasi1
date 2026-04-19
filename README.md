@@ -32,7 +32,7 @@ const jackson = {
 <td width="50%">
 
 ### 🧠 Tech Arsenal
-<img src="https://skillicons.dev/icons?i=nodejs,react,ts,postgres,docker,aws,rust" />
+<img src="https://skillicons.dev/icons?i=nodejs,react,ts,postgres,docker,gcp,aws,rust" />
 
 </td>
 
